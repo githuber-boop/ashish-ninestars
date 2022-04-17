@@ -824,6 +824,11 @@ header {
     width: 80%;
     margin: 0 auto;
   }
+
+  .flex-center {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 @keyframes mover {
